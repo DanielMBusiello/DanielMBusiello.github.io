@@ -10,11 +10,13 @@ redirect_from:
 
 You can also download my CV as a [pdf file](/files/CV_Pacciani.pdf).
 
+## Current position
+* Post-doc, University of Padova
+
 ## Research experience
 * Ph.D. in *Physics*, University of Padova
   * **Thesis title**: Entropy production in Non-equilibrium systems
   * **Supervisor**: Prof. Amos Maritan
-  * **Final grade**: Passed cum laude
   
 * Visiting Research Scholar, University of Maryland, College Park
   * **Supervisor**: prof. Christopher Jarzynski
