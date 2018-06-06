@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leonardo Pacciani"
+title                    : "Daniel Maria Busiello"
 title_separator          : "-"
-name                     : &name "Leonardo Pacciani"
-description              : &description "PhD student at University of Padova"
-url                      : https://leonardopacciani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Daniel Maria Busiello"
+description              : &description "Post-doc at University of Padova"
+url                      : https://danielmbusiello.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leonardopacciani/leonardopacciani.github.io"
+repository               : "danielmbusiello/danielmbusiello.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leonardo Pacciani"
+  name             : "Daniel Maria Busiello"
   avatar           : "profile.png"
-  bio              : "PhD student in Physics at the University of Padova"
+  bio              : "Post-doc at the University of Padova"
   location         : "Padova"
   employer         :
-  googlescholar    : "https://scholar.google.it/citations?user=pcfZJqQAAAAJ"
-  email            : "leonardo.pacciani@phd.unipd.it"
+  googlescholar    : "https://scholar.google.it/citations?user=jEeLDd8AAAAJ&hl=it"
+  email            : "busiello@pd.infn.it"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "leonardopacciani"
+  github           : "danielmbusiello"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9765-0728"
+  orcid            : " https://orcid.org/0000-0002-6754-5019"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -110,9 +110,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchgate     : "Leonardo_Pacciani"
-  academia         : "LeonardoPacciani"
-  mendeley         : "leonardo-pacciani"
+  researchgate     : "Daniel_Maria_Busiello"
+  academia         : # "LeonardoPacciani"
+  mendeley         : # "leonardo-pacciani"
 
 
 # Reading Files
