@@ -1,4 +1,3 @@
-
 ---
 title: "Physics2"
 collection: talks
