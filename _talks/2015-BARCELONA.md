@@ -2,7 +2,7 @@
 title: "Physics2"
 collection: talks
 type: "Talk"
-permalink: /talks/2015-BARCELONA
+permalink: /talks/2015-Bhjhjj
 venue: "University of Pisa, Department of Physics"
 date: 2018-04-20
 location: "Firenze, Italy"
