@@ -1,11 +1,11 @@
 ---
-title: "Reaction-diffusion systems on multiplex networks
+title: "Physics2"
 collection: talks
 type: "Talk"
-permalink: /talks/2015-Barcelona
-venue: "CRM, Barcelona"
-date: 2015
-location: "Barcelona, Spain"
+permalink: /talks/2015-BARCELONA
+venue: "University of Pisa, Department of Physics"
+date: 2018-04-20
+location: "Firenze, Italy"
 ---
 
 This talk has been held during the V Summer School on Statistical Physics of Complex and Small Systems (http://www.crm.cat/en/Activities/Curs_2014-2015/Pages/SSSPCSS.aspx).
