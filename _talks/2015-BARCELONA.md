@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed Talk"
 permalink: /talks/2015-BARCELONA
 venue: "CRM, Barcelona"
-date: 2015
+date: 2015-06-15
 location: "Barcelona, Spain"
 ---
 
