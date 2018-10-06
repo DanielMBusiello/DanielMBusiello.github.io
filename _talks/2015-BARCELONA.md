@@ -3,7 +3,7 @@ title: "Reaction-diffusion systems on multiplex networks"
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/2015-BARCELONA
-venue: "CRM, Barcelona"
+venue: "CRM"
 date: 2015-07-15
 location: "Barcelona, Spain"
 ---
