@@ -1,9 +1,9 @@
 ---
-title: "Turing instability multiplex networks"
+title: "Turing instability on multiplex networks"
 collection: talks
 type: "Contributed Talk"
-permalink: /talks/2015-BARCELONA
-venue: "CRM, Barcelona"
+permalink: /talks/2015-Venezia
+venue: "VIU, San Servolo"
 date: 2015-09-19
 location: "Venice, Italy"
 ---
