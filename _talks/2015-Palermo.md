@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed Talk"
 permalink: /talks/2015-Palermo
 venue: "University of Palermo"
-date: 2015-09-19
+date: 2015-09-30
 location: "Palermo, Italy"
 ---
 
