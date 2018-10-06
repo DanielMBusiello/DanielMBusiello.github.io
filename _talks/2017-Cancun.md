@@ -2,7 +2,7 @@
 title: "Entropy production for coarse-grained dynamics"
 collection: talks
 type: "Contributed Talk"
-permalink: /talks/2015-BARCELONA
+permalink: /talks/2017-Cancun
 venue: "Cancun International Convention Center"
 date: 2017-09-18
 location: "Cancun, Mexico"
